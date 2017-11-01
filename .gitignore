@@ -6,7 +6,7 @@ Specific/config.php
 Specific/config.system.php
 
 # Composer stuff
-composer.lock
+# composer.lock
 vendor
 
 # Build
