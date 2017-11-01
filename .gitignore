@@ -7,7 +7,7 @@ Specific/config.system.php
 Specific/INSTALL_DISABLED
 
 # Composer stuff
-composer.lock
+
 vendor
 
 # Build
